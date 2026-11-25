@@ -9,7 +9,7 @@ function Index() {
     <div className="flex min-h-screen flex-col items-center justify-center bg-background px-4">
       <h1 className="text-4xl font-bold tracking-tight text-heading-blue">Branch QA: main</h1>
       <p className="mt-4 max-w-md text-center text-muted-foreground">REVIEW-01 edit.</p>
-      <footer className="mt-8 text-xs text-muted-foreground">Review twelve B</footer>
+      <footer className="mt-8 text-xs text-muted-foreground">Save three</footer>
     </div>
   );
 }

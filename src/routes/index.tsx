@@ -13,7 +13,7 @@ function Index() {
       <p className="mt-4 max-w-md text-center text-muted-foreground">
         GitHub edit while the answer runs (check 2).
       </p>
-      <footer className="mt-6 text-sm text-muted-foreground">Footer Gamma</footer>
+      <footer className="mt-6 text-sm text-muted-foreground">Footer Review 01</footer>
     </div>
   );
 }

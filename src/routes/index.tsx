@@ -11,7 +11,7 @@ function Index() {
         Branch QA: pause check 2
       </h1>
       <p className="mt-4 max-w-md text-center text-muted-foreground">
-        GitHub edit during pause check 1.
+        GitHub edit while the answer runs (check 2).
       </p>
       <footer className="mt-6 text-sm text-muted-foreground">Footer Alpha</footer>
     </div>
